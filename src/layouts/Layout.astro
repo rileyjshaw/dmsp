@@ -1,0 +1,49 @@
+---
+interface Props {
+	title?: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content="Astro description" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{['DMSP', title].filter(Boolean).join(' | ')}</title>
+	</head>
+	<body class="p-16 max-w-screen-xl mx-auto">
+		<slot />
+	</body>
+</html>
+<style is:global>
+	@font-face {
+		font-family: 'Henrietta Condensed';
+		src: url('/fonts/VCHenriettaCondensed-Regular.woff2') format('woff2');
+		font-weight: 400;
+		font-style: normal;
+		font-display: swap;
+	}
+
+	@font-face {
+		font-family: 'Henrietta Condensed';
+		src: url('/fonts/VCHenriettaCondensed-Bold.woff2') format('woff2');
+		font-weight: 700;
+		font-style: normal;
+		font-display: swap;
+	}
+
+	html {
+		@apply bg-gray-900 text-gray-100;
+		font-family: 'Henrietta Condensed', Superclarendon, 'Bookman Old Style',
+			'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif;
+	}
+
+	a {
+		@apply text-blue-400;
+	}
+</style>
