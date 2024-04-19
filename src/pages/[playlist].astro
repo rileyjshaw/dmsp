@@ -71,23 +71,14 @@ export async function getStaticPaths() {
 									album: string;
 								},
 								i: string
-							) => {
-								const album =
-									Astro.props.title === 'Big Shiny Tunes'
-										? row.album.replace(
-												/Big Shiny Tunes ?/,
-												''
-											) || '1'
-										: row.album;
-								return (
-									<tr class="mt-2 hover:bg-gray-700">
-										<td class="pr-4">{i + 1}</td>
-										<td class="pr-4">{row.artist}</td>
-										<td class="pr-4">{row.title}</td>
-										<td>{album}</td>
-									</tr>
-								);
-							}
+							) => (
+								<tr class="mt-2 hover:bg-gray-700">
+									<td class="pr-4">{i + 1}</td>
+									<td class="pr-4">{row.artist}</td>
+									<td class="pr-4">{row.title}</td>
+									<td>{row.album}</td>
+								</tr>
+							)
 						)
 					}
 				</tbody>
