@@ -55,10 +55,10 @@ export async function getStaticPaths() {
 			<table class="border-collapse text-lg w-full">
 				<thead>
 					<tr>
-						<th class="text-left pr-4">Track number</th>
+						<th class="text-left pr-4">#</th>
 						<th class="text-left pr-4">Artist</th>
 						<th class="text-left pr-4">Song</th>
-						<th class="text-left">Album</th>
+						<th class="text-left">CD</th>
 					</tr>
 				</thead>
 				<tbody>
@@ -71,14 +71,23 @@ export async function getStaticPaths() {
 									album: string;
 								},
 								i: string
-							) => (
-								<tr class="mt-2 hover:bg-gray-700">
-									<td class="pr-4">{i + 1}</td>
-									<td class="pr-4">{row.artist}</td>
-									<td class="pr-4">{row.title}</td>
-									<td>{row.album}</td>
-								</tr>
-							)
+							) => {
+								const album =
+									Astro.props.title === 'Big Shiny Tunes'
+										? row.album.replace(
+												/Big Shiny Tunes ?/,
+												''
+											) || '1'
+										: row.album;
+								return (
+									<tr class="mt-2 hover:bg-gray-700">
+										<td class="pr-4">{i + 1}</td>
+										<td class="pr-4">{row.artist}</td>
+										<td class="pr-4">{row.title}</td>
+										<td>{album}</td>
+									</tr>
+								);
+							}
 						)
 					}
 				</tbody>
