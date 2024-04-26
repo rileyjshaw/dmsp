@@ -1263,5 +1263,345 @@
     "artist": "Default",
     "title": "All Over Me",
     "album": "14"
+  },
+  {
+    "artist": "Blink-182",
+    "title": "Dammit",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Jane's Addiction",
+    "title": "Been Caught Stealing",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "U2",
+    "title": "Mysterious Ways",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Oasis",
+    "title": "Wonderwall",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Fatboy Slim",
+    "title": "The Rockefeller Skank",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Kid Rock",
+    "title": "Cowboy",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "The Matthew Good Band",
+    "title": "Indestructible",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Radiohead",
+    "title": "Fake Plastic Trees",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "What's The Frequency, Kenneth?",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Live",
+    "title": "Lightening Crashes",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Big Wreck",
+    "title": "The Oaf (My Luck Is Wasted)",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Matchbox Twenty",
+    "title": "3 AM",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Silverchair",
+    "title": "Tomorrow",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "The Cranberries",
+    "title": "Zombie",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Bush",
+    "title": "Everything Zen",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "The Cure",
+    "title": "Friday I'm In Love",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Marcy Playground",
+    "title": "Sex And Candy",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Blind Melon",
+    "title": "No Rain",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Everclear",
+    "title": "Santa Monica",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "The Mighty Mighty Bosstones",
+    "title": "The Impression I Get",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Collective Soul",
+    "title": "Shine",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Everlast",
+    "title": "What It's Like",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Third Eye Blind",
+    "title": "Never Let You Go",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Garbage",
+    "title": "Only Happy When It Rains",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Porno For Pyros",
+    "title": "Pets",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Sublime",
+    "title": "What I Got",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Veruca Salt",
+    "title": "Volcano Girls",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Econoline Crush",
+    "title": "All That You Are",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Faith No More",
+    "title": "Epic",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Moist",
+    "title": "Push",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Spacehog",
+    "title": "In The Meantime",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Elastica",
+    "title": "Stutter",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Depeche Mode",
+    "title": "Enjoy The Silence",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Odds",
+    "title": "Someone Who's Cool",
+    "album": "90s (Vol. 1)"
+  },
+  {
+    "artist": "Weezer",
+    "title": "Buddy Holly",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Oasis",
+    "title": "Champagne Supernova",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Blink-182",
+    "title": "All The Small Things",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "U2",
+    "title": "Numb",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Jane's Addiction",
+    "title": "Stop",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "The Breeders",
+    "title": "Cannonball",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Blur",
+    "title": "Girls & Boys",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Sloan",
+    "title": "Underwhelmed",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Better Than Ezra",
+    "title": "Good",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Live",
+    "title": "All Over You",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Collective Soul",
+    "title": "Gel",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Everclear",
+    "title": "Everything To Everyone",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Filter",
+    "title": "Hey Man Nice Shot",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "The Prodigy",
+    "title": "Firestarter",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "White Zombie",
+    "title": "More Human Than Human",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "The Chemical Brothers",
+    "title": "Block Rockin' Beats",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Bush",
+    "title": "Glycerine",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Marilyn Manson",
+    "title": "The Dope Show",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Hole",
+    "title": "Celebrity Skin",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Smash Mouth",
+    "title": "Walking On The Sun",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Third Eye Blind",
+    "title": "Jumper",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Barenaked Ladies",
+    "title": "The Old Apartment",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "I Mother Earth",
+    "title": "So Gently We Go (Edit)",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Jesus Jones",
+    "title": "Right Here, Right Now",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Odds",
+    "title": "Eat My Brain",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "Drive",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Garbage",
+    "title": "When I Grow Up",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Primitive Radio Gods",
+    "title": "Standing Outside A Broken Phone Booth With Money In My Hand",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "The Cardigans",
+    "title": "Lovefool",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Depeche Mode",
+    "title": "Policy Of Truth",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "The Cranberries",
+    "title": "Salvation",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Econoline Crush",
+    "title": "Sparkle And Shine",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "Moist",
+    "title": "Silver",
+    "album": "90s (Vol. 2)"
+  },
+  {
+    "artist": "The Cure",
+    "title": "Pictures Of You",
+    "album": "90s (Vol. 2)"
   }
 ]
