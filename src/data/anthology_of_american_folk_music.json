@@ -1,0 +1,557 @@
+[
+	{
+		"artist": "Dick Justice",
+		"title": "Henry Lee",
+		"album": "1"
+	},
+	{
+		"artist": "Nelstone's Hawaiians",
+		"title": "Fatal Flower Garden",
+		"album": "1"
+	},
+	{
+		"artist": "Clarence Ashley",
+		"title": "The House Carpenter",
+		"album": "1"
+	},
+	{
+		"artist": "Coley Jones",
+		"title": "Drunkard's Special",
+		"album": "1"
+	},
+	{
+		"artist": "Bill And Belle Reed",
+		"title": "Old Lady And The Devil",
+		"album": "1"
+	},
+	{
+		"artist": "Buell Kazee",
+		"title": "The Butcher's Boy",
+		"album": "1"
+	},
+	{
+		"artist": "Buell Kazee",
+		"title": "The Wagoner's Lad",
+		"album": "1"
+	},
+	{
+		"artist": "Chubby Parker",
+		"title": "King Kong Kitchie Kitchie Ki-Me-O",
+		"album": "1"
+	},
+	{
+		"artist": "Uncle Eck Dunford",
+		"title": "Old Shoes And Leggings",
+		"album": "1"
+	},
+	{
+		"artist": "Richard Burnett And Leonard Rutherford",
+		"title": "Willie Moore",
+		"album": "1"
+	},
+	{
+		"artist": "Buster Carter & Preston Young",
+		"title": "A Lazy Farmer Boy",
+		"album": "1"
+	},
+	{
+		"artist": "The Carolina Tar Heels",
+		"title": "Peg And Awl",
+		"album": "1"
+	},
+	{
+		"artist": "G.B. Grayson",
+		"title": "Ommie Wise",
+		"album": "1"
+	},
+	{
+		"artist": "Kelly Harrell And The Virginia String Band",
+		"title": "My Name Is John Johanna",
+		"album": "1"
+	},
+	{
+		"artist": "Edward L. Crain",
+		"title": "Bandit Cole Younger",
+		"album": "1"
+	},
+	{
+		"artist": "Kelly Harrell And The Virginia String Band",
+		"title": "Charles Giteau",
+		"album": "1"
+	},
+	{
+		"artist": "The Carter Family",
+		"title": "John Hardy Was A Desperate Little Man",
+		"album": "1"
+	},
+	{
+		"artist": "The Williamson Brothers And Curry",
+		"title": "Gonna Die With My Hammer In My Hand",
+		"album": "1"
+	},
+	{
+		"artist": "Frank Hutchison",
+		"title": "Stackalee",
+		"album": "1"
+	},
+	{
+		"artist": "Charlie Poole And The North Carolina Ramblers",
+		"title": "White House Blues",
+		"album": "1"
+	},
+	{
+		"artist": "Mississippi John Hurt",
+		"title": "Frankie",
+		"album": "1"
+	},
+	{
+		"artist": "William And Versey Smith",
+		"title": "When That Great Ship Went Down",
+		"album": "1"
+	},
+	{
+		"artist": "The Carter Family",
+		"title": "Engine 143",
+		"album": "1"
+	},
+	{
+		"artist": "Furry Lewis",
+		"title": "Kassie Jones",
+		"album": "1"
+	},
+	{
+		"artist": "The Bently Boys",
+		"title": "Down On Penny's Farm",
+		"album": "1"
+	},
+	{
+		"artist": "The Masked Marvel",
+		"title": "Mississippi Boweavil Blues",
+		"album": "1"
+	},
+	{
+		"artist": "The Carolina Tar Heels",
+		"title": "Got The Farm Land Blues",
+		"album": "1"
+	},
+	{
+		"artist": "Uncle Bunt Stephens",
+		"title": "Sail Away Lady",
+		"album": "2"
+	},
+	{
+		"artist": "Jilson Setters",
+		"title": "The Wild Wagoner",
+		"album": "2"
+	},
+	{
+		"artist": "Prince Albert Hunt's Texas Ramblers",
+		"title": "Wake Up Jacob",
+		"album": "2"
+	},
+	{
+		"artist": "Delma Lachney And Blind Uncle Gaspard",
+		"title": "La Danseuse",
+		"album": "2"
+	},
+	{
+		"artist": "Andrew & Jim Baxter",
+		"title": "Georgia Stomp",
+		"album": "2"
+	},
+	{
+		"artist": "Eck Robertson And Family",
+		"title": "Brilliance Medley",
+		"album": "2"
+	},
+	{
+		"artist": "Hoyt \"Floyd\" Ming And His Pep-Steppers",
+		"title": "Indian War Whoop",
+		"album": "2"
+	},
+	{
+		"artist": "Henry Thomas",
+		"title": "Old Country Stomp",
+		"album": "2"
+	},
+	{
+		"artist": "Jim Jackson",
+		"title": "Old Dog Blue",
+		"album": "2"
+	},
+	{
+		"artist": "Columbus Fruge",
+		"title": "Saut Crapaud",
+		"album": "2"
+	},
+	{
+		"artist": "Joseph Falcon",
+		"title": "Acadian One-Step",
+		"album": "2"
+	},
+	{
+		"artist": "Breaux Frères",
+		"title": "Home Sweet Home",
+		"album": "2"
+	},
+	{
+		"artist": "Cincinnati Jug Band",
+		"title": "Newport Blues",
+		"album": "2"
+	},
+	{
+		"artist": "Frank Cloutier And The Victoria Cafe Orchestra",
+		"title": "Moonshiner's Dance Part One",
+		"album": "2"
+	},
+	{
+		"artist": "Rev. J. M. Gates",
+		"title": "You Must Be Born Again",
+		"album": "2"
+	},
+	{
+		"artist": "Rev. J. M. Gates",
+		"title": "Oh Death Where Is Thy Sting",
+		"album": "2"
+	},
+	{
+		"artist": "Alabama Sacred Harp Singers",
+		"title": "Rocky Road",
+		"album": "2"
+	},
+	{
+		"artist": "Alabama Sacred Harp Singers",
+		"title": "Present Joys",
+		"album": "2"
+	},
+	{
+		"artist": "Middle Georgia Singing Convention No. 1",
+		"title": "This Song Of Love",
+		"album": "2"
+	},
+	{
+		"artist": "Rev. Sister Mary Nelson",
+		"title": "Judgement",
+		"album": "2"
+	},
+	{
+		"artist": "Memphis Sanctified Singers",
+		"title": "He Got Better Things For You",
+		"album": "2"
+	},
+	{
+		"artist": "Elders McIntorsh And Edwards' Sanctified Singers",
+		"title": "Since I Laid My Burden Down",
+		"album": "2"
+	},
+	{
+		"artist": "Moses Mason",
+		"title": "John The Baptist",
+		"album": "2"
+	},
+	{
+		"artist": "Bascom Lamar Lunsford",
+		"title": "Dry Bones",
+		"album": "2"
+	},
+	{
+		"artist": "Blind Willie Johnson",
+		"title": "John The Revelator",
+		"album": "2"
+	},
+	{
+		"artist": "The Carter Family",
+		"title": "Little Moses",
+		"album": "2"
+	},
+	{
+		"artist": "Ernest Phipps And His Holiness Singers",
+		"title": "Shine On Me",
+		"album": "2"
+	},
+	{
+		"artist": "Rev. F.W. McGee",
+		"title": "Fifty Miles Of Elbow Room",
+		"album": "2"
+	},
+	{
+		"artist": "Rev. D.C. Rice And His Sanctified Congregation",
+		"title": "In The Battlefield For My Lord",
+		"album": "2"
+	},
+	{
+		"artist": "Clarence Ashley",
+		"title": "The Coo Coo Bird",
+		"album": "3"
+	},
+	{
+		"artist": "Buell Kazee",
+		"title": "East Virginia",
+		"album": "3"
+	},
+	{
+		"artist": "Cannon's Jug Stompers",
+		"title": "Minglewood Blues",
+		"album": "3"
+	},
+	{
+		"artist": "Didier Herbert",
+		"title": "I Woke Up One Morning In May",
+		"album": "3"
+	},
+	{
+		"artist": "Richard \"Rabbit\" Brown",
+		"title": "James Alley Blues",
+		"album": "3"
+	},
+	{
+		"artist": "Dock Boggs",
+		"title": "Sugar Baby",
+		"album": "3"
+	},
+	{
+		"artist": "Bascom Lamar Lunsford",
+		"title": "I Wish I Was A Mole In The Ground",
+		"album": "3"
+	},
+	{
+		"artist": "Ernest And Hattie Stoneman",
+		"title": "Mountaineer's Courtship",
+		"album": "3"
+	},
+	{
+		"artist": "The Stoneman Family",
+		"title": "The Spanish Merchant's Daughter",
+		"album": "3"
+	},
+	{
+		"artist": "Memphis Jug Band",
+		"title": "Bob Lee Junior Blues",
+		"album": "3"
+	},
+	{
+		"artist": "The Carter Family",
+		"title": "Single Girl, Married Girl",
+		"album": "3"
+	},
+	{
+		"artist": "Cleoma Breaux And Joseph Falcon",
+		"title": "La Vieux Soulard Et Sa Femme",
+		"album": "3"
+	},
+	{
+		"artist": "Blind Lemon Jefferson",
+		"title": "Rabbit Foot Blues",
+		"album": "3"
+	},
+	{
+		"artist": "Sleepy John Estes And Yank Rachell",
+		"title": "Expressman Blues",
+		"album": "3"
+	},
+	{
+		"artist": "Ramblin' Thomas",
+		"title": "Poor Boy Blues",
+		"album": "3"
+	},
+	{
+		"artist": "Cannon's Jug Stompers",
+		"title": "Feather Bed",
+		"album": "3"
+	},
+	{
+		"artist": "Dock Boggs",
+		"title": "Country Blues",
+		"album": "3"
+	},
+	{
+		"artist": "Julius Daniels",
+		"title": "99 Year Blues",
+		"album": "3"
+	},
+	{
+		"artist": "Blind Lemon Jefferson",
+		"title": "Prison Cell Blues",
+		"album": "3"
+	},
+	{
+		"artist": "Blind Lemon Jefferson",
+		"title": "See That My Grave Is Kept Clean",
+		"album": "3"
+	},
+	{
+		"artist": "Cleoma Breaux And Ophy Breaux And Joseph Falcon",
+		"title": "C'Est Si Triste Sans Lui",
+		"album": "3"
+	},
+	{
+		"artist": "Uncle Dave Macon",
+		"title": "Way Down The Old Plank Road",
+		"album": "3"
+	},
+	{
+		"artist": "Uncle Dave Macon",
+		"title": "Buddy Won't You Roll Down The Line",
+		"album": "3"
+	},
+	{
+		"artist": "Mississippi John Hurt",
+		"title": "Spike Driver Blues",
+		"album": "3"
+	},
+	{
+		"artist": "Memphis Jug Band",
+		"title": "K.C. Moan",
+		"album": "3"
+	},
+	{
+		"artist": "J.P. Nestor",
+		"title": "Train On The Island",
+		"album": "3"
+	},
+	{
+		"artist": "Ken Maynard",
+		"title": "The Lone Star Trail",
+		"album": "3"
+	},
+	{
+		"artist": "Henry Thomas",
+		"title": "Fishing Blues",
+		"album": "3"
+	},
+	{
+		"artist": "Memphis Jug Band",
+		"title": "Memphis Shake Down",
+		"album": "4"
+	},
+	{
+		"artist": "Bradley Kincaid",
+		"title": "Dog And Gun",
+		"album": "4"
+	},
+	{
+		"artist": "The Carter Family",
+		"title": "Black Jack David",
+		"album": "4"
+	},
+	{
+		"artist": "Blue Sky Boys",
+		"title": "Down By The Banks Of The Ohio",
+		"album": "4"
+	},
+	{
+		"artist": "Arthur Smith Trio",
+		"title": "Adieu, False Heart",
+		"album": "4"
+	},
+	{
+		"artist": "J.E. Mainer's Mountaineers",
+		"title": "John Henry Was A Little Boy",
+		"album": "4"
+	},
+	{
+		"artist": "Monroe Brothers",
+		"title": "Nine Pound Hammer Is Too Heavy",
+		"album": "4"
+	},
+	{
+		"artist": "Jesse James",
+		"title": "Southern Casey Jones",
+		"album": "4"
+	},
+	{
+		"artist": "Jack Kelly And His South Memphis Jug Band",
+		"title": "Cold Iron Bed",
+		"album": "4"
+	},
+	{
+		"artist": "Leadbelly",
+		"title": "Packin' Trunk",
+		"album": "4"
+	},
+	{
+		"artist": "Joe Williams' Washboard Blues Singers",
+		"title": "Baby Please Don't Go",
+		"album": "4"
+	},
+	{
+		"artist": "Robert Johnson",
+		"title": "Last Fair Deal Gone Down",
+		"album": "4"
+	},
+	{
+		"artist": "Bukka White",
+		"title": "Parchman Farm Blues",
+		"album": "4"
+	},
+	{
+		"artist": "Heavenly Gospel Singers",
+		"title": "Mean Old World",
+		"album": "4"
+	},
+	{
+		"artist": "The Carter Family",
+		"title": "Hello, Stranger",
+		"album": "4"
+	},
+	{
+		"artist": "Sister Clara Hudmon",
+		"title": "Stand By Me",
+		"album": "4"
+	},
+	{
+		"artist": "Al Hopkins And His Buckle Busters",
+		"title": "West Virginia Gals",
+		"album": "4"
+	},
+	{
+		"artist": "Uncle Dave Macon",
+		"title": "Wreck Of The Tennessee Gravy Train",
+		"album": "4"
+	},
+	{
+		"artist": "Uncle Dave Macon",
+		"title": "Governor Al Smith",
+		"album": "4"
+	},
+	{
+		"artist": "Sleepy John Estes",
+		"title": "Milk Cow Blues",
+		"album": "4"
+	},
+	{
+		"artist": "The Carter Family",
+		"title": "No Depression In Heaven",
+		"album": "4"
+	},
+	{
+		"artist": "Blind Roosevelt Graves",
+		"title": "I'll Be Rested",
+		"album": "4"
+	},
+	{
+		"artist": "Memphis Minnie",
+		"title": "He's In The Ring",
+		"album": "4"
+	},
+	{
+		"artist": "Minnie Wallace",
+		"title": "The Cockeyed World",
+		"album": "4"
+	},
+	{
+		"artist": "Mississippi Jook Band",
+		"title": "Barbecue Bust",
+		"album": "4"
+	},
+	{
+		"artist": "Hackberry Ramblers",
+		"title": "Dans Le Grand Bois",
+		"album": "4"
+	},
+	{
+		"artist": "The Four Aces",
+		"title": "Aces' Breakdown",
+		"album": "4"
+	}
+]
