@@ -55,10 +55,10 @@ export async function getStaticPaths() {
 			<table class="border-collapse text-lg w-full">
 				<thead>
 					<tr>
-						<th class="text-left pr-4">#</th>
-						<th class="text-left pr-4">Artist</th>
-						<th class="text-left pr-4">Song</th>
-						<th class="text-left">CD</th>
+						<th class="text-left pr-4 align-top">#</th>
+						<th class="text-left pr-4 align-top">Artist</th>
+						<th class="text-left pr-4 align-top">Song</th>
+						<th class="text-left align-top">CD</th>
 					</tr>
 				</thead>
 				<tbody>
@@ -73,10 +73,10 @@ export async function getStaticPaths() {
 								i: string
 							) => (
 								<tr class="mt-2 hover:bg-gray-700">
-									<td class="pr-4">{i + 1}</td>
-									<td class="pr-4">{row.artist}</td>
-									<td class="pr-4">{row.title}</td>
-									<td>{row.album}</td>
+									<td class="pr-4 align-top">{i + 1}</td>
+									<td class="pr-4 align-top">{row.artist}</td>
+									<td class="pr-4 align-top">{row.title}</td>
+									<td class="align-top">{row.album}</td>
 								</tr>
 							)
 						)
