@@ -3,6 +3,7 @@ import { readdirSync, readFileSync } from 'fs';
 import { fileURLToPath } from 'url';
 import path from 'path';
 import Layout from '../layouts/Layout.astro';
+import cn from 'cnz';
 
 export async function getStaticPaths() {
 	const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -56,27 +57,48 @@ export async function getStaticPaths() {
 				<thead>
 					<tr>
 						<th class="text-left pr-4 align-top">#</th>
-						<th class="text-left pr-4 align-top">Artist</th>
-						<th class="text-left pr-4 align-top">Song</th>
-						<th class="text-left align-top">CD</th>
+						{
+							Astro.props.data.headings.map(
+								(
+									heading: string,
+									i: number,
+									{ length }: string[]
+								) => (
+									<th
+										class={cn(
+											'text-left align-top',
+											i < length - 1 && 'pr-4'
+										)}
+									>
+										{heading}
+									</th>
+								)
+							)
+						}
 					</tr>
 				</thead>
 				<tbody>
 					{
-						Astro.props.data.map(
-							(
-								row: {
-									artist: string;
-									title: string;
-									album: string;
-								},
-								i: string
-							) => (
+						Astro.props.data.songs.map(
+							(row: string[], i: number) => (
 								<tr class="mt-2 hover:bg-gray-700">
 									<td class="pr-4 align-top">{i + 1}</td>
-									<td class="pr-4 align-top">{row.artist}</td>
-									<td class="pr-4 align-top">{row.title}</td>
-									<td class="align-top">{row.album}</td>
+									{row.map(
+										(
+											cell: string,
+											j: number,
+											{ length }: string[]
+										) => (
+											<td
+												class={cn(
+													'align-top',
+													j < length - 1 && 'pr-4'
+												)}
+											>
+												{cell}
+											</td>
+										)
+									)}
 								</tr>
 							)
 						)

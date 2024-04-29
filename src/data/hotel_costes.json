@@ -1,1097 +1,260 @@
-[
-	{
-		"artist": "Big Muff",
-		"title": "My Funny Valentine",
-		"album": "1"
-	},
-	{
-		"artist": "Ballistic Brothers",
-		"title": "Cubafro Con Amigos",
-		"album": "1"
-	},
-	{
-		"artist": "Fantastic Plastic Machine",
-		"title": "First Class 77",
-		"album": "1"
-	},
-	{
-		"artist": "Stéphane Pompougnac",
-		"title": "Green Tree",
-		"album": "1"
-	},
-	{
-		"artist": "Yves Montand",
-		"title": "Pour Faire Le Portrait D'Un Oiseau",
-		"album": "1"
-	},
-	{
-		"artist": "De-Phazz",
-		"title": "No Jive",
-		"album": "1"
-	},
-	{
-		"artist": "Aphrodelics",
-		"title": "Rollin' On Chrome",
-		"album": "1"
-	},
-	{
-		"artist": "Charles Schillings",
-		"title": "No Communication, No Love",
-		"album": "1"
-	},
-	{
-		"artist": "Seven Dub",
-		"title": "Château Rouge",
-		"album": "1"
-	},
-	{
-		"artist": "New Phunk Theory",
-		"title": "La Neblina Del Verano",
-		"album": "1"
-	},
-	{
-		"artist": "Max Baffa",
-		"title": "Luna De Rio",
-		"album": "1"
-	},
-	{
-		"artist": "Almeidinha Do El Gringo",
-		"title": "Chorando Sim",
-		"album": "1"
-	},
-	{
-		"artist": "Grace Jones",
-		"title": "Libertango",
-		"album": "1"
-	},
-	{
-		"artist": "Nitin Sawhney",
-		"title": "Migration",
-		"album": "1"
-	},
-	{
-		"artist": "Rinôçérôse",
-		"title": "Machine Pour Les Oreilles",
-		"album": "1"
-	},
-	{
-		"artist": "Flying Pop's",
-		"title": "Love The DJ",
-		"album": "1"
-	},
-	{
-		"artist": "Doris Days",
-		"title": "To Ulrike M. (Zero 7 Mix)",
-		"album": "2"
-	},
-	{
-		"artist": "De-Phazz",
-		"title": "Jazz Music",
-		"album": "2"
-	},
-	{
-		"artist": "Pink Martini",
-		"title": "Symphatique",
-		"album": "2"
-	},
-	{
-		"artist": "Mo' Horizons",
-		"title": "Flyin Away",
-		"album": "2"
-	},
-	{
-		"artist": "45 Dip",
-		"title": "Lizzie's Balloon",
-		"album": "2"
-	},
-	{
-		"artist": "Rollercone",
-		"title": "Palais Mascotte",
-		"album": "2"
-	},
-	{
-		"artist": "I:Cube",
-		"title": "Adore",
-		"album": "2"
-	},
-	{
-		"artist": "Cesaria Evora",
-		"title": "Carnaval De São Vicente (Jazzy Carnaval Mix)",
-		"album": "2"
-	},
-	{
-		"artist": "Lovetronic",
-		"title": "You Are Love (Jay's Afrotronic Vocal)",
-		"album": "2"
-	},
-	{
-		"artist": "Pascal & Mister Day",
-		"title": "Salvation Live",
-		"album": "2"
-	},
-	{
-		"artist": "Mr. Scruff",
-		"title": "Get A Move On",
-		"album": "2"
-	},
-	{
-		"artist": "Boozoo Bajou",
-		"title": "Night Over Manaus",
-		"album": "2"
-	},
-	{
-		"artist": "Streetlife Originals",
-		"title": "The Assassin, Act 1",
-		"album": "2"
-	},
-	{
-		"artist": "Femi Kuti",
-		"title": "Sorry Sorry (Old School Afro Dub)",
-		"album": "2"
-	},
-	{
-		"artist": "Another Level",
-		"title": "Guess I Was A Fool (MJ Cole Mix)",
-		"album": "2"
-	},
-	{
-		"artist": "A Reminiscent Drive",
-		"title": "Ambrosia",
-		"album": "3"
-	},
-	{
-		"artist": "Shirley Bassey",
-		"title": "Where Do I Begin (Away Team Mix)",
-		"album": "3"
-	},
-	{
-		"artist": "Cosmos Sound Club",
-		"title": "Les Chrysanthèmes",
-		"album": "3"
-	},
-	{
-		"artist": "Stereo Action Unlimited",
-		"title": "Hi-Fi Trumpet (Boyz From Brazil Mix)",
-		"album": "3"
-	},
-	{
-		"artist": "Coco Steel & Lovebomb",
-		"title": "Yachts (A Man Called Adam Mix)",
-		"album": "3"
-	},
-	{
-		"artist": "Hacienda",
-		"title": "Late Lounge Lover",
-		"album": "3"
-	},
-	{
-		"artist": "The Funky Lowlives",
-		"title": "Latazz",
-		"album": "3"
-	},
-	{
-		"artist": "Superstars Of Rock, Cujo",
-		"title": "Apollo (Adam Goldstone Edit)",
-		"album": "3"
-	},
-	{
-		"artist": "Can 7",
-		"title": "Cruisin'",
-		"album": "3"
-	},
-	{
-		"artist": "Gazzara, Elise (14)",
-		"title": "Timeless (Orange Factory Remix)",
-		"album": "3"
-	},
-	{
-		"artist": "Stéphane Pompougnac",
-		"title": "PNC Aux Portes",
-		"album": "3"
-	},
-	{
-		"artist": "Nickodemus",
-		"title": "Cleopatra In New York",
-		"album": "3"
-	},
-	{
-		"artist": "Troublemakers",
-		"title": "Electrorloge",
-		"album": "3"
-	},
-	{
-		"artist": "Gotan Project",
-		"title": "Last Tango In Paris",
-		"album": "3"
-	},
-	{
-		"artist": "Lustral",
-		"title": "Every Time (A Man Called Adam Balearic Remix)",
-		"album": "3"
-	},
-	{
-		"artist": "Variety Lab",
-		"title": "London In The Rain",
-		"album": "4"
-	},
-	{
-		"artist": "The Method",
-		"title": "I've Got A Cat",
-		"album": "4"
-	},
-	{
-		"artist": "Thunderball (2)",
-		"title": "Solar",
-		"album": "4"
-	},
-	{
-		"artist": "Dublex Inc.",
-		"title": "Tango Forte",
-		"album": "4"
-	},
-	{
-		"artist": "Scott Grooves",
-		"title": "Organ Nights Pt. 2",
-		"album": "4"
-	},
-	{
-		"artist": "Slow Supreme",
-		"title": "Granada",
-		"album": "4"
-	},
-	{
-		"artist": "Stéphane Pompougnac",
-		"title": "Closer To Julie",
-		"album": "4"
-	},
-	{
-		"artist": "Jon Cutler",
-		"title": "It's Yours (Jon's B-Side Breakdown Mix)",
-		"album": "4"
-	},
-	{
-		"artist": "Imada",
-		"title": "Playground Do Brasil",
-		"album": "4"
-	},
-	{
-		"artist": "Major Boys",
-		"title": "Sous Le Soleil (Cuba Acoustic Mix)",
-		"album": "4"
-	},
-	{
-		"artist": "Doctor Rockit",
-		"title": "Café De Flore (Charles Webster's Latin Lovers Mix)",
-		"album": "4"
-	},
-	{
-		"artist": "Gotan Project",
-		"title": "Época",
-		"album": "4"
-	},
-	{
-		"artist": "Shantel",
-		"title": "Whatever",
-		"album": "4"
-	},
-	{
-		"artist": "Orbient",
-		"title": "Boarding (Doubleseat Mix)",
-		"album": "4"
-	},
-	{
-		"artist": "Hippiehaus",
-		"title": "Galaxy",
-		"album": "5"
-	},
-	{
-		"artist": "Rouge Rouge",
-		"title": "L'Amour",
-		"album": "5"
-	},
-	{
-		"artist": "Physics",
-		"title": "Leaving Monte Carlo",
-		"album": "5"
-	},
-	{
-		"artist": "Streamer",
-		"title": "Zwing Ting",
-		"album": "5"
-	},
-	{
-		"artist": "DJ Cam, Anggun",
-		"title": "Summer In Paris",
-		"album": "5"
-	},
-	{
-		"artist": "Clémentine",
-		"title": "Les Champs Elysées (Stéphane Pompougnac Remix)",
-		"album": "5"
-	},
-	{
-		"artist": "The Strike Boys",
-		"title": "Cocaine Is A Sin",
-		"album": "5"
-	},
-	{
-		"artist": "Vision (11)",
-		"title": "Ponger Star",
-		"album": "5"
-	},
-	{
-		"artist": "Gabin",
-		"title": "Doo Uap, Doo Uap, Doo Uap (Radio Edit)",
-		"album": "5"
-	},
-	{
-		"artist": "Janice, Brown Smith & Grey",
-		"title": "Voodoo Bliss (Aaron Bingle's Azure Mix)",
-		"album": "5"
-	},
-	{
-		"artist": "Minus 8",
-		"title": "Starlight",
-		"album": "5"
-	},
-	{
-		"artist": "Limbo Experience",
-		"title": "Illusion (Rollercone Remix)",
-		"album": "5"
-	},
-	{
-		"artist": "Dublex Inc.",
-		"title": "Tócame",
-		"album": "5"
-	},
-	{
-		"artist": "Louie Austen",
-		"title": "One Night In Rio",
-		"album": "5"
-	},
-	{
-		"artist": "Fantastic Plastic Machine",
-		"title": "Steppin' Out (Costes Re-edit)",
-		"album": "5"
-	},
-	{
-		"artist": "Slow Train",
-		"title": "In The Black Of Night",
-		"album": "6"
-	},
-	{
-		"artist": "Stigmato Inc.",
-		"title": "Reality Check",
-		"album": "6"
-	},
-	{
-		"artist": "Emmanuel Santarromana",
-		"title": "Métropolitain",
-		"album": "6"
-	},
-	{
-		"artist": "3-11 Porter",
-		"title": "Surround Me With Your Love (Mental Overdrive Remix)",
-		"album": "6"
-	},
-	{
-		"artist": "Tosca",
-		"title": "Rolf Royce",
-		"album": "6"
-	},
-	{
-		"artist": "Stéphane Pompougnac",
-		"title": "Morenito (Bossa Mix)",
-		"album": "6"
-	},
-	{
-		"artist": "Barbara Mendes",
-		"title": "Got To Be In Love (Dub Mix)",
-		"album": "6"
-	},
-	{
-		"artist": "Minus 8",
-		"title": "Snowblind",
-		"album": "6"
-	},
-	{
-		"artist": "Dutch Rhythm Combo",
-		"title": "Come On (Sket Remix)",
-		"album": "6"
-	},
-	{
-		"artist": "Fingathing",
-		"title": "You Fly Me",
-		"album": "6"
-	},
-	{
-		"artist": "Spiro Projecto, Josefina Sanner",
-		"title": "Bluesless (Radio Mix)",
-		"album": "6"
-	},
-	{
-		"artist": "Zimpala",
-		"title": "The Breeze Is Black (Moonstarr Remix)",
-		"album": "6"
-	},
-	{
-		"artist": "Grand Palace",
-		"title": "Party's On",
-		"album": "6"
-	},
-	{
-		"artist": "Doctor Jazz's Universal Remedy",
-		"title": "Un Monde Sans Frime",
-		"album": "6"
-	},
-	{
-		"artist": "Veba, Mark Rae",
-		"title": "Lavish (Deadbeats Remix)",
-		"album": "7"
-	},
-	{
-		"artist": "The Fort Knox Five",
-		"title": "The Brazilian Hipster",
-		"album": "7"
-	},
-	{
-		"artist": "Rodney Hunter",
-		"title": "Work That Body",
-		"album": "7"
-	},
-	{
-		"artist": "Bobby Hughes Combination",
-		"title": "Clive The Runner",
-		"album": "7"
-	},
-	{
-		"artist": "Only Child",
-		"title": "Addicted",
-		"album": "7"
-	},
-	{
-		"artist": "Club Des Belugas",
-		"title": "Hip Hip Chin Chin (Yaziko Club Mix)",
-		"album": "7"
-	},
-	{
-		"artist": "Watch TV",
-		"title": "Palumbo",
-		"album": "7"
-	},
-	{
-		"artist": "Trinity FM",
-		"title": "S.O.S (The Sounds Of Silence)",
-		"album": "7"
-	},
-	{
-		"artist": "Slow Train",
-		"title": "Trail Of Dawn (Varano's Hotel Of Dawn Remix)",
-		"album": "7"
-	},
-	{
-		"artist": "Mo' Horizons",
-		"title": "So Ma Guisee",
-		"album": "7"
-	},
-	{
-		"artist": "Dolphin Boy",
-		"title": "Don’t Stop (Dublex Inc. Remix)",
-		"album": "7"
-	},
-	{
-		"artist": "Paolo Fedreghini",
-		"title": "Please Don’t Leave (The Essential Mix)",
-		"album": "7"
-	},
-	{
-		"artist": "Takumi Kato",
-		"title": "Tone 10",
-		"album": "7"
-	},
-	{
-		"artist": "Claude Monnet, Monica Nogueira",
-		"title": "Je Suis Venu Te Dire Que Je M’en Vais",
-		"album": "7"
-	},
-	{
-		"artist": "The Limp Twins",
-		"title": "Sunday Driver",
-		"album": "7"
-	},
-	{
-		"artist": "Emiliana Torrini, Thievery Corporation",
-		"title": "Heaven's Gonna Burn Your Eyes",
-		"album": "7"
-	},
-	{
-		"artist": "Mark Farina",
-		"title": "Dream Machine (Downtempo Mix)",
-		"album": "8"
-	},
-	{
-		"artist": "Mark Farina",
-		"title": "Dream Machine (Downtempo Mix)",
-		"album": "8"
-	},
-	{
-		"artist": "Ralph Myerz & The Jack Herren Band",
-		"title": "Think Twice",
-		"album": "8"
-	},
-	{
-		"artist": "Ralph Myerz & The Jack Herren Band",
-		"title": "Think Twice",
-		"album": "8"
-	},
-	{
-		"artist": "Stéphane Pompougnac",
-		"title": "Last Night",
-		"album": "8"
-	},
-	{
-		"artist": "Hird",
-		"title": "Getting Closer",
-		"album": "8"
-	},
-	{
-		"artist": "Zuco 103",
-		"title": "Love Is Queen",
-		"album": "8"
-	},
-	{
-		"artist": "Demon Ritchie",
-		"title": "Only In New York",
-		"album": "8"
-	},
-	{
-		"artist": "Parov Stelar",
-		"title": "Kisskiss",
-		"album": "8"
-	},
-	{
-		"artist": "Jazzanova, Liquid Lounge",
-		"title": "Lemon Tea?",
-		"album": "8"
-	},
-	{
-		"artist": "Visti & Meyland",
-		"title": "All Night (Yes Maam)",
-		"album": "8"
-	},
-	{
-		"artist": "Michael Mayer",
-		"title": "Lovefood",
-		"album": "8"
-	},
-	{
-		"artist": "Soulstice",
-		"title": "Wind (Fila Brazillia Mix)",
-		"album": "8"
-	},
-	{
-		"artist": "Smooth",
-		"title": "Smooth (Radio Edit)",
-		"album": "8"
-	},
-	{
-		"artist": "Djako",
-		"title": "Devil Train",
-		"album": "8"
-	},
-	{
-		"artist": "Flying Pop's",
-		"title": "A La Pêche",
-		"album": "8"
-	},
-	{
-		"artist": "Stéphane Pompougnac",
-		"title": "The Ballad Of Sacco And Vanzetti",
-		"album": "9"
-	},
-	{
-		"artist": "Neobe, Adani & Wolf",
-		"title": "No One In This World",
-		"album": "9"
-	},
-	{
-		"artist": "Jehro",
-		"title": "All I Want",
-		"album": "9"
-	},
-	{
-		"artist": "Ohm-G, Bruno",
-		"title": "One",
-		"album": "9"
-	},
-	{
-		"artist": "Freedom Dub",
-		"title": "Emotional Rescue (2 Many Beats Remix)",
-		"album": "9"
-	},
-	{
-		"artist": "Gotan Project",
-		"title": "Diferente",
-		"album": "9"
-	},
-	{
-		"artist": "S-Tone Inc.",
-		"title": "Con Mi Sombra",
-		"album": "9"
-	},
-	{
-		"artist": "Parov Stelar",
-		"title": "Kiss Me Twice",
-		"album": "9"
-	},
-	{
-		"artist": "Status IV",
-		"title": "You Ain't Really Down (Jazzanova's Hey Baby Remix)",
-		"album": "9"
-	},
-	{
-		"artist": "Toddy Ivy, Paul & Price",
-		"title": "Little White Roses",
-		"album": "9"
-	},
-	{
-		"artist": "Paul St. Hilaire, Rhythm & Sound",
-		"title": "Free For All (Soundstream Remix)",
-		"album": "9"
-	},
-	{
-		"artist": "One Self",
-		"title": "Bluebird",
-		"album": "9"
-	},
-	{
-		"artist": "Karin Viard, Rouge Rouge",
-		"title": "Et Toutes Ces Choses...",
-		"album": "9"
-	},
-	{
-		"artist": "Djako",
-		"title": "Paris...Demain Matin...",
-		"album": "9"
-	},
-	{
-		"artist": "Niko",
-		"title": "Womb",
-		"album": "9"
-	},
-	{
-		"artist": "Alif Tree",
-		"title": "Belle",
-		"album": "9"
-	},
-	{
-		"artist": "Angus & Julia Stone",
-		"title": "Paper Aeroplane",
-		"album": "10"
-	},
-	{
-		"artist": "$olal, Sam Bush, Melonie Cannon",
-		"title": "Psycho Girls & Psycow Boys (Haaksman & Haaksman Remix)",
-		"album": "10"
-	},
-	{
-		"artist": "De-Phazz",
-		"title": "My Society",
-		"album": "10"
-	},
-	{
-		"artist": "Stéphane Pompougnac, Charles Schillings",
-		"title": "Sunday Drive (Remix)",
-		"album": "10"
-	},
-	{
-		"artist": "Goloka",
-		"title": "Save Me Tonight",
-		"album": "10"
-	},
-	{
-		"artist": "Peder, Ane Trolle",
-		"title": "White Lilies",
-		"album": "10"
-	},
-	{
-		"artist": "Zimpala",
-		"title": "Adios",
-		"album": "10"
-	},
-	{
-		"artist": "DJ Disse",
-		"title": "Taxi To War",
-		"album": "10"
-	},
-	{
-		"artist": "Louie Austen",
-		"title": "Glamour Girl",
-		"album": "10"
-	},
-	{
-		"artist": "Deep Dive Corp.",
-		"title": "Little Ditty",
-		"album": "10"
-	},
-	{
-		"artist": "Afterlife, Neve",
-		"title": "Elijah",
-		"album": "10"
-	},
-	{
-		"artist": "Laid Back",
-		"title": "Happy Dreamer (Happy Horse Mix)",
-		"album": "10"
-	},
-	{
-		"artist": "Orsten",
-		"title": "Fleur Blanche",
-		"album": "10"
-	},
-	{
-		"artist": "Benny Sings",
-		"title": "Coconut",
-		"album": "10"
-	},
-	{
-		"artist": "Marsmobil",
-		"title": "Magnetising",
-		"album": "11"
-	},
-	{
-		"artist": "Naomi",
-		"title": "How Many Loves",
-		"album": "11"
-	},
-	{
-		"artist": "Variety Lab",
-		"title": "Soda Pop Confusion",
-		"album": "11"
-	},
-	{
-		"artist": "Pacha Massive",
-		"title": "Don't Let Go",
-		"album": "11"
-	},
-	{
-		"artist": "Brenda Boykin, Club Des Belugas",
-		"title": "Skip To The Bip (Brazil Mix)",
-		"album": "11"
-	},
-	{
-		"artist": "Lena Horne",
-		"title": "I Want A Little Doggie (Remix)",
-		"album": "11"
-	},
-	{
-		"artist": "Dublex Inc., Ashley Slater",
-		"title": "The Game",
-		"album": "11"
-	},
-	{
-		"artist": "Villa Black, Juanita Grande",
-		"title": "Broken Wings (Pompougnac & Schillings Remix)",
-		"album": "11"
-	},
-	{
-		"artist": "Kraak & Smaak",
-		"title": "Enzo (Edit)",
-		"album": "11"
-	},
-	{
-		"artist": "Waldeck",
-		"title": "Why Did We Fire The Gun?",
-		"album": "11"
-	},
-	{
-		"artist": "Stéphane Pompougnac, Nicole Graham",
-		"title": "Eden",
-		"album": "11"
-	},
-	{
-		"artist": "DJ Farrapo, Yanez (2)",
-		"title": "Avisado",
-		"album": "11"
-	},
-	{
-		"artist": "Vanessa Da Mata, Ben Harper",
-		"title": "Boa Sorte (Good Luck)",
-		"album": "11"
-	},
-	{
-		"artist": "Tom Eno",
-		"title": "Tijuana",
-		"album": "11"
-	},
-	{
-		"artist": "Varano",
-		"title": "Dead End Street (Trentemøller Remix)",
-		"album": "11"
-	},
-	{
-		"artist": "Gerrit Van Der Meer",
-		"title": "A Suitcase Of Light",
-		"album": "11"
-	},
-	{
-		"artist": "Shazz, Michael Robinson",
-		"title": "Mirage",
-		"album": "11"
-	},
-	{
-		"artist": "Unforscene",
-		"title": "Alright",
-		"album": "12"
-	},
-	{
-		"artist": "General Elektriks",
-		"title": "Raid The Radio",
-		"album": "12"
-	},
-	{
-		"artist": "Stéphane Pompougnac",
-		"title": "Latin Cha Cha",
-		"album": "12"
-	},
-	{
-		"artist": "The Normalites",
-		"title": "Pink Skyscraper",
-		"album": "12"
-	},
-	{
-		"artist": "Natural-Self",
-		"title": "In The Morning (Version)",
-		"album": "12"
-	},
-	{
-		"artist": "Tafubar",
-		"title": "The Wicked Thoughts Of You (Pete Phunk Afternoon Rhodes Remix)",
-		"album": "12"
-	},
-	{
-		"artist": "Afterlife, No Logo, Pete Gooding",
-		"title": "How Many More Years",
-		"album": "12"
-	},
-	{
-		"artist": "Damian Lazarus",
-		"title": "Diamond In The Dark",
-		"album": "12"
-	},
-	{
-		"artist": "Manu D, Malik Alary",
-		"title": "I Have To Run Away",
-		"album": "12"
-	},
-	{
-		"artist": "Massivan",
-		"title": "2 B @ 1 With The World",
-		"album": "12"
-	},
-	{
-		"artist": "The Revolution (3), Jan \"Stan\" Kybert, Cameron McVey",
-		"title": "You Wouldn't Want To Be",
-		"album": "12"
-	},
-	{
-		"artist": "Charles Schillings, Juanita Grande",
-		"title": "One On One",
-		"album": "12"
-	},
-	{
-		"artist": "Ben Westbeech",
-		"title": "Get Closer",
-		"album": "12"
-	},
-	{
-		"artist": "DJ Vadim",
-		"title": "Beijos",
-		"album": "12"
-	},
-	{
-		"artist": "Sei A",
-		"title": "Ether",
-		"album": "12"
-	},
-	{
-		"artist": "Despina Ricci",
-		"title": "Plage Ensoleillée",
-		"album": "12"
-	},
-	{
-		"artist": "Raphael Gualazzi",
-		"title": "Reality & Fantasy (Gilles Peterson Remix)",
-		"album": "14"
-	},
-	{
-		"artist": "Raphael Gualazzi",
-		"title": "Reality & Fantasy (Gilles Peterson Remix)",
-		"album": "14"
-	},
-	{
-		"artist": "Tosca",
-		"title": "Elitsa (Kotey Extra Band Disco Version)",
-		"album": "14"
-	},
-	{
-		"artist": "Ben Cocks, Duptribe",
-		"title": "Blackbird Song",
-		"album": "14"
-	},
-	{
-		"artist": "Boozoo Bajou",
-		"title": "YMA (Afterlife Remix)",
-		"album": "14"
-	},
-	{
-		"artist": "Karuan",
-		"title": "Chocolate Distance Feat. Metin Yilmaz Kendal",
-		"album": "14"
-	},
-	{
-		"artist": "Zwicker, Olivera Stanimirov",
-		"title": "Oddity (John Talabot Remix)",
-		"album": "14"
-	},
-	{
-		"artist": "Nova Nova",
-		"title": "Prisoner's Song (Extended Original Mix)",
-		"album": "14"
-	},
-	{
-		"artist": "Tontelas",
-		"title": "Lost It All Feat. Ski",
-		"album": "14"
-	},
-	{
-		"artist": "Dreadzone",
-		"title": "American Dread",
-		"album": "14"
-	},
-	{
-		"artist": "Stéphane Pompougnac",
-		"title": "Back To The Wall",
-		"album": "14"
-	},
-	{
-		"artist": "Blundetto",
-		"title": "Voices (Feat. Hindi Zahra)",
-		"album": "14"
-	},
-	{
-		"artist": "Brigitte (11)",
-		"title": "Ma Benz",
-		"album": "14"
-	},
-	{
-		"artist": "The J-Chestra, Lisa Bassenge",
-		"title": "Perhaps, Perhaps, Perhaps",
-		"album": "14"
-	},
-	{
-		"artist": "Dario Caminita, Da.Ma.Project",
-		"title": "Party Time (The Lounge)",
-		"album": "14"
-	},
-	{
-		"artist": "Flight Facilities",
-		"title": "Crave You Ft. Giselle",
-		"album": "14"
-	},
-	{
-		"artist": "Quarion",
-		"title": "I Found You On Facebook",
-		"album": "14"
-	},
-	{
-		"artist": "Slackwax",
-		"title": "Close To My Fire",
-		"album": "15"
-	},
-	{
-		"artist": "Intergalactic Lovers",
-		"title": "Fade Away",
-		"album": "15"
-	},
-	{
-		"artist": "Second Date",
-		"title": "Young, Beautiful Etc.",
-		"album": "15"
-	},
-	{
-		"artist": "Chris James (6), DJ Cam",
-		"title": "Swim (Blackjoy Version)",
-		"album": "15"
-	},
-	{
-		"artist": "Osunlade",
-		"title": "Idiosyncracy",
-		"album": "15"
-	},
-	{
-		"artist": "Megan Washington, Lanu",
-		"title": "Beautiful Trash",
-		"album": "15"
-	},
-	{
-		"artist": "Kid Loco",
-		"title": "The Passenger",
-		"album": "15"
-	},
-	{
-		"artist": "Brigitte Fontaine, Grace Jones",
-		"title": "La Caravane",
-		"album": "15"
-	},
-	{
-		"artist": "Zahed Sultan",
-		"title": "I Want Her But I Don't Want Her",
-		"album": "15"
-	},
-	{
-		"artist": "Matthew McAnuff, Tom Fire",
-		"title": "Brainwash",
-		"album": "15"
-	},
-	{
-		"artist": "Jürgen Paape",
-		"title": "So Weit Wie Noch Nie (Original Mix)",
-		"album": "15"
-	},
-	{
-		"artist": "Stéphane Pompougnac",
-		"title": "One By One",
-		"album": "15"
-	},
-	{
-		"artist": "Maceo Plex",
-		"title": "Gravy Train (Nicolas Jaar Remix)",
-		"album": "15"
-	},
-	{
-		"artist": "Soulstice",
-		"title": "Lost In The City",
-		"album": "15"
-	},
-	{
-		"artist": "Deluxe (17)",
-		"title": "Mister Chicken",
-		"album": "15"
-	},
-	{
-		"artist": "Scratch Massive, Daníel Ágúst",
-		"title": "Paris (Edit Radio)",
-		"album": "15"
-	},
-	{
-		"artist": "DJ Click, Valentina Casula",
-		"title": "Guadalquivir",
-		"album": "15"
-	},
-	{
-		"artist": "Variety Lab",
-		"title": "I Can't Help Thinking About You",
-		"album": "15"
-	}
-]
+{
+  "headings": ["Artist", "Song", "CD"],
+  "songs": [
+    ["Big Muff", "My Funny Valentine", "1"],
+    ["Ballistic Brothers", "Cubafro Con Amigos", "1"],
+    ["Fantastic Plastic Machine", "First Class 77", "1"],
+    ["Stéphane Pompougnac", "Green Tree", "1"],
+    ["Yves Montand", "Pour Faire Le Portrait D'Un Oiseau", "1"],
+    ["De-Phazz", "No Jive", "1"],
+    ["Aphrodelics", "Rollin' On Chrome", "1"],
+    ["Charles Schillings", "No Communication, No Love", "1"],
+    ["Seven Dub", "Château Rouge", "1"],
+    ["New Phunk Theory", "La Neblina Del Verano", "1"],
+    ["Max Baffa", "Luna De Rio", "1"],
+    ["Almeidinha Do El Gringo", "Chorando Sim", "1"],
+    ["Grace Jones", "Libertango", "1"],
+    ["Nitin Sawhney", "Migration", "1"],
+    ["Rinôçérôse", "Machine Pour Les Oreilles", "1"],
+    ["Flying Pop's", "Love The DJ", "1"],
+    ["Doris Days", "To Ulrike M. (Zero 7 Mix)", "2"],
+    ["De-Phazz", "Jazz Music", "2"],
+    ["Pink Martini", "Symphatique", "2"],
+    ["Mo' Horizons", "Flyin Away", "2"],
+    ["45 Dip", "Lizzie's Balloon", "2"],
+    ["Rollercone", "Palais Mascotte", "2"],
+    ["I:Cube", "Adore", "2"],
+    ["Cesaria Evora", "Carnaval De São Vicente (Jazzy Carnaval Mix)", "2"],
+    ["Lovetronic", "You Are Love (Jay's Afrotronic Vocal)", "2"],
+    ["Pascal & Mister Day", "Salvation Live", "2"],
+    ["Mr. Scruff", "Get A Move On", "2"],
+    ["Boozoo Bajou", "Night Over Manaus", "2"],
+    ["Streetlife Originals", "The Assassin, Act 1", "2"],
+    ["Femi Kuti", "Sorry Sorry (Old School Afro Dub)", "2"],
+    ["Another Level", "Guess I Was A Fool (MJ Cole Mix)", "2"],
+    ["A Reminiscent Drive", "Ambrosia", "3"],
+    ["Shirley Bassey", "Where Do I Begin (Away Team Mix)", "3"],
+    ["Cosmos Sound Club", "Les Chrysanthèmes", "3"],
+    ["Stereo Action Unlimited", "Hi-Fi Trumpet (Boyz From Brazil Mix)", "3"],
+    ["Coco Steel & Lovebomb", "Yachts (A Man Called Adam Mix)", "3"],
+    ["Hacienda", "Late Lounge Lover", "3"],
+    ["The Funky Lowlives", "Latazz", "3"],
+    ["Superstars Of Rock, Cujo", "Apollo (Adam Goldstone Edit)", "3"],
+    ["Can 7", "Cruisin'", "3"],
+    ["Gazzara, Elise (14)", "Timeless (Orange Factory Remix)", "3"],
+    ["Stéphane Pompougnac", "PNC Aux Portes", "3"],
+    ["Nickodemus", "Cleopatra In New York", "3"],
+    ["Troublemakers", "Electrorloge", "3"],
+    ["Gotan Project", "Last Tango In Paris", "3"],
+    ["Lustral", "Every Time (A Man Called Adam Balearic Remix)", "3"],
+    ["Variety Lab", "London In The Rain", "4"],
+    ["The Method", "I've Got A Cat", "4"],
+    ["Thunderball (2)", "Solar", "4"],
+    ["Dublex Inc.", "Tango Forte", "4"],
+    ["Scott Grooves", "Organ Nights Pt. 2", "4"],
+    ["Slow Supreme", "Granada", "4"],
+    ["Stéphane Pompougnac", "Closer To Julie", "4"],
+    ["Jon Cutler", "It's Yours (Jon's B-Side Breakdown Mix)", "4"],
+    ["Imada", "Playground Do Brasil", "4"],
+    ["Major Boys", "Sous Le Soleil (Cuba Acoustic Mix)", "4"],
+    [
+      "Doctor Rockit",
+      "Café De Flore (Charles Webster's Latin Lovers Mix)",
+      "4"
+    ],
+    ["Gotan Project", "Época", "4"],
+    ["Shantel", "Whatever", "4"],
+    ["Orbient", "Boarding (Doubleseat Mix)", "4"],
+    ["Hippiehaus", "Galaxy", "5"],
+    ["Rouge Rouge", "L'Amour", "5"],
+    ["Physics", "Leaving Monte Carlo", "5"],
+    ["Streamer", "Zwing Ting", "5"],
+    ["DJ Cam, Anggun", "Summer In Paris", "5"],
+    ["Clémentine", "Les Champs Elysées (Stéphane Pompougnac Remix)", "5"],
+    ["The Strike Boys", "Cocaine Is A Sin", "5"],
+    ["Vision (11)", "Ponger Star", "5"],
+    ["Gabin", "Doo Uap, Doo Uap, Doo Uap (Radio Edit)", "5"],
+    [
+      "Janice, Brown Smith & Grey",
+      "Voodoo Bliss (Aaron Bingle's Azure Mix)",
+      "5"
+    ],
+    ["Minus 8", "Starlight", "5"],
+    ["Limbo Experience", "Illusion (Rollercone Remix)", "5"],
+    ["Dublex Inc.", "Tócame", "5"],
+    ["Louie Austen", "One Night In Rio", "5"],
+    ["Fantastic Plastic Machine", "Steppin' Out (Costes Re-edit)", "5"],
+    ["Slow Train", "In The Black Of Night", "6"],
+    ["Stigmato Inc.", "Reality Check", "6"],
+    ["Emmanuel Santarromana", "Métropolitain", "6"],
+    ["3-11 Porter", "Surround Me With Your Love (Mental Overdrive Remix)", "6"],
+    ["Tosca", "Rolf Royce", "6"],
+    ["Stéphane Pompougnac", "Morenito (Bossa Mix)", "6"],
+    ["Barbara Mendes", "Got To Be In Love (Dub Mix)", "6"],
+    ["Minus 8", "Snowblind", "6"],
+    ["Dutch Rhythm Combo", "Come On (Sket Remix)", "6"],
+    ["Fingathing", "You Fly Me", "6"],
+    ["Spiro Projecto, Josefina Sanner", "Bluesless (Radio Mix)", "6"],
+    ["Zimpala", "The Breeze Is Black (Moonstarr Remix)", "6"],
+    ["Grand Palace", "Party's On", "6"],
+    ["Doctor Jazz's Universal Remedy", "Un Monde Sans Frime", "6"],
+    ["Veba, Mark Rae", "Lavish (Deadbeats Remix)", "7"],
+    ["The Fort Knox Five", "The Brazilian Hipster", "7"],
+    ["Rodney Hunter", "Work That Body", "7"],
+    ["Bobby Hughes Combination", "Clive The Runner", "7"],
+    ["Only Child", "Addicted", "7"],
+    ["Club Des Belugas", "Hip Hip Chin Chin (Yaziko Club Mix)", "7"],
+    ["Watch TV", "Palumbo", "7"],
+    ["Trinity FM", "S.O.S (The Sounds Of Silence)", "7"],
+    ["Slow Train", "Trail Of Dawn (Varano's Hotel Of Dawn Remix)", "7"],
+    ["Mo' Horizons", "So Ma Guisee", "7"],
+    ["Dolphin Boy", "Don’t Stop (Dublex Inc. Remix)", "7"],
+    ["Paolo Fedreghini", "Please Don’t Leave (The Essential Mix)", "7"],
+    ["Takumi Kato", "Tone 10", "7"],
+    [
+      "Claude Monnet, Monica Nogueira",
+      "Je Suis Venu Te Dire Que Je M’en Vais",
+      "7"
+    ],
+    ["The Limp Twins", "Sunday Driver", "7"],
+    [
+      "Emiliana Torrini, Thievery Corporation",
+      "Heaven's Gonna Burn Your Eyes",
+      "7"
+    ],
+    ["Mark Farina", "Dream Machine (Downtempo Mix)", "8"],
+    ["Mark Farina", "Dream Machine (Downtempo Mix)", "8"],
+    ["Ralph Myerz & The Jack Herren Band", "Think Twice", "8"],
+    ["Ralph Myerz & The Jack Herren Band", "Think Twice", "8"],
+    ["Stéphane Pompougnac", "Last Night", "8"],
+    ["Hird", "Getting Closer", "8"],
+    ["Zuco 103", "Love Is Queen", "8"],
+    ["Demon Ritchie", "Only In New York", "8"],
+    ["Parov Stelar", "Kisskiss", "8"],
+    ["Jazzanova, Liquid Lounge", "Lemon Tea?", "8"],
+    ["Visti & Meyland", "All Night (Yes Maam)", "8"],
+    ["Michael Mayer", "Lovefood", "8"],
+    ["Soulstice", "Wind (Fila Brazillia Mix)", "8"],
+    ["Smooth", "Smooth (Radio Edit)", "8"],
+    ["Djako", "Devil Train", "8"],
+    ["Flying Pop's", "A La Pêche", "8"],
+    ["Stéphane Pompougnac", "The Ballad Of Sacco And Vanzetti", "9"],
+    ["Neobe, Adani & Wolf", "No One In This World", "9"],
+    ["Jehro", "All I Want", "9"],
+    ["Ohm-G, Bruno", "One", "9"],
+    ["Freedom Dub", "Emotional Rescue (2 Many Beats Remix)", "9"],
+    ["Gotan Project", "Diferente", "9"],
+    ["S-Tone Inc.", "Con Mi Sombra", "9"],
+    ["Parov Stelar", "Kiss Me Twice", "9"],
+    ["Status IV", "You Ain't Really Down (Jazzanova's Hey Baby Remix)", "9"],
+    ["Toddy Ivy, Paul & Price", "Little White Roses", "9"],
+    [
+      "Paul St. Hilaire, Rhythm & Sound",
+      "Free For All (Soundstream Remix)",
+      "9"
+    ],
+    ["One Self", "Bluebird", "9"],
+    ["Karin Viard, Rouge Rouge", "Et Toutes Ces Choses...", "9"],
+    ["Djako", "Paris...Demain Matin...", "9"],
+    ["Niko", "Womb", "9"],
+    ["Alif Tree", "Belle", "9"],
+    ["Angus & Julia Stone", "Paper Aeroplane", "10"],
+    [
+      "$olal, Sam Bush, Melonie Cannon",
+      "Psycho Girls & Psycow Boys (Haaksman & Haaksman Remix)",
+      "10"
+    ],
+    ["De-Phazz", "My Society", "10"],
+    ["Stéphane Pompougnac, Charles Schillings", "Sunday Drive (Remix)", "10"],
+    ["Goloka", "Save Me Tonight", "10"],
+    ["Peder, Ane Trolle", "White Lilies", "10"],
+    ["Zimpala", "Adios", "10"],
+    ["DJ Disse", "Taxi To War", "10"],
+    ["Louie Austen", "Glamour Girl", "10"],
+    ["Deep Dive Corp.", "Little Ditty", "10"],
+    ["Afterlife, Neve", "Elijah", "10"],
+    ["Laid Back", "Happy Dreamer (Happy Horse Mix)", "10"],
+    ["Orsten", "Fleur Blanche", "10"],
+    ["Benny Sings", "Coconut", "10"],
+    ["Marsmobil", "Magnetising", "11"],
+    ["Naomi", "How Many Loves", "11"],
+    ["Variety Lab", "Soda Pop Confusion", "11"],
+    ["Pacha Massive", "Don't Let Go", "11"],
+    ["Brenda Boykin, Club Des Belugas", "Skip To The Bip (Brazil Mix)", "11"],
+    ["Lena Horne", "I Want A Little Doggie (Remix)", "11"],
+    ["Dublex Inc., Ashley Slater", "The Game", "11"],
+    [
+      "Villa Black, Juanita Grande",
+      "Broken Wings (Pompougnac & Schillings Remix)",
+      "11"
+    ],
+    ["Kraak & Smaak", "Enzo (Edit)", "11"],
+    ["Waldeck", "Why Did We Fire The Gun?", "11"],
+    ["Stéphane Pompougnac, Nicole Graham", "Eden", "11"],
+    ["DJ Farrapo, Yanez (2)", "Avisado", "11"],
+    ["Vanessa Da Mata, Ben Harper", "Boa Sorte (Good Luck)", "11"],
+    ["Tom Eno", "Tijuana", "11"],
+    ["Varano", "Dead End Street (Trentemøller Remix)", "11"],
+    ["Gerrit Van Der Meer", "A Suitcase Of Light", "11"],
+    ["Shazz, Michael Robinson", "Mirage", "11"],
+    ["Unforscene", "Alright", "12"],
+    ["General Elektriks", "Raid The Radio", "12"],
+    ["Stéphane Pompougnac", "Latin Cha Cha", "12"],
+    ["The Normalites", "Pink Skyscraper", "12"],
+    ["Natural-Self", "In The Morning (Version)", "12"],
+    [
+      "Tafubar",
+      "The Wicked Thoughts Of You (Pete Phunk Afternoon Rhodes Remix)",
+      "12"
+    ],
+    ["Afterlife, No Logo, Pete Gooding", "How Many More Years", "12"],
+    ["Damian Lazarus", "Diamond In The Dark", "12"],
+    ["Manu D, Malik Alary", "I Have To Run Away", "12"],
+    ["Massivan", "2 B @ 1 With The World", "12"],
+    [
+      "The Revolution (3), Jan \"Stan\" Kybert, Cameron McVey",
+      "You Wouldn't Want To Be",
+      "12"
+    ],
+    ["Charles Schillings, Juanita Grande", "One On One", "12"],
+    ["Ben Westbeech", "Get Closer", "12"],
+    ["DJ Vadim", "Beijos", "12"],
+    ["Sei A", "Ether", "12"],
+    ["Despina Ricci", "Plage Ensoleillée", "12"],
+    ["Raphael Gualazzi", "Reality & Fantasy (Gilles Peterson Remix)", "14"],
+    ["Raphael Gualazzi", "Reality & Fantasy (Gilles Peterson Remix)", "14"],
+    ["Tosca", "Elitsa (Kotey Extra Band Disco Version)", "14"],
+    ["Ben Cocks, Duptribe", "Blackbird Song", "14"],
+    ["Boozoo Bajou", "YMA (Afterlife Remix)", "14"],
+    ["Karuan", "Chocolate Distance Feat. Metin Yilmaz Kendal", "14"],
+    ["Zwicker, Olivera Stanimirov", "Oddity (John Talabot Remix)", "14"],
+    ["Nova Nova", "Prisoner's Song (Extended Original Mix)", "14"],
+    ["Tontelas", "Lost It All Feat. Ski", "14"],
+    ["Dreadzone", "American Dread", "14"],
+    ["Stéphane Pompougnac", "Back To The Wall", "14"],
+    ["Blundetto", "Voices (Feat. Hindi Zahra)", "14"],
+    ["Brigitte (11)", "Ma Benz", "14"],
+    ["The J-Chestra, Lisa Bassenge", "Perhaps, Perhaps, Perhaps", "14"],
+    ["Dario Caminita, Da.Ma.Project", "Party Time (The Lounge)", "14"],
+    ["Flight Facilities", "Crave You Ft. Giselle", "14"],
+    ["Quarion", "I Found You On Facebook", "14"],
+    ["Slackwax", "Close To My Fire", "15"],
+    ["Intergalactic Lovers", "Fade Away", "15"],
+    ["Second Date", "Young, Beautiful Etc.", "15"],
+    ["Chris James (6), DJ Cam", "Swim (Blackjoy Version)", "15"],
+    ["Osunlade", "Idiosyncracy", "15"],
+    ["Megan Washington, Lanu", "Beautiful Trash", "15"],
+    ["Kid Loco", "The Passenger", "15"],
+    ["Brigitte Fontaine, Grace Jones", "La Caravane", "15"],
+    ["Zahed Sultan", "I Want Her But I Don't Want Her", "15"],
+    ["Matthew McAnuff, Tom Fire", "Brainwash", "15"],
+    ["Jürgen Paape", "So Weit Wie Noch Nie (Original Mix)", "15"],
+    ["Stéphane Pompougnac", "One By One", "15"],
+    ["Maceo Plex", "Gravy Train (Nicolas Jaar Remix)", "15"],
+    ["Soulstice", "Lost In The City", "15"],
+    ["Deluxe (17)", "Mister Chicken", "15"],
+    ["Scratch Massive, Daníel Ágúst", "Paris (Edit Radio)", "15"],
+    ["DJ Click, Valentina Casula", "Guadalquivir", "15"],
+    ["Variety Lab", "I Can't Help Thinking About You", "15"]
+  ]
+}
